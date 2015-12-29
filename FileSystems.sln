@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystems", "FileSystems\FileSystems.csproj", "{F594D7C7-E78B-41EB-86DE-7F9FB5657365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystemsDev", "FileSystemsDev\FileSystemsDev.csproj", "{FDFEE5F3-BA9F-4B5C-BCBE-0EE944CD1F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSystems.Tests", "FileSystems.Tests\FileSystems.Tests.csproj", "{41BB537C-697E-427E-A051-1D4A54BE715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F594D7C7-E78B-41EB-86DE-7F9FB5657365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F594D7C7-E78B-41EB-86DE-7F9FB5657365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F594D7C7-E78B-41EB-86DE-7F9FB5657365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F594D7C7-E78B-41EB-86DE-7F9FB5657365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFEE5F3-BA9F-4B5C-BCBE-0EE944CD1F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFEE5F3-BA9F-4B5C-BCBE-0EE944CD1F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFEE5F3-BA9F-4B5C-BCBE-0EE944CD1F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFEE5F3-BA9F-4B5C-BCBE-0EE944CD1F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41BB537C-697E-427E-A051-1D4A54BE715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41BB537C-697E-427E-A051-1D4A54BE715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41BB537C-697E-427E-A051-1D4A54BE715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41BB537C-697E-427E-A051-1D4A54BE715D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
